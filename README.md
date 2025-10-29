@@ -27,7 +27,7 @@ We hold regular meetings open to all.
 
 * **Schedule:** TBD
 
-* **Calendar:** Subscribe to the [OpenJS Foundation Public Calendar](https://calendar.google.com/calendar/embed?src=linuxfoundation.org_fuopm2r6s1v7l3f1nlaeefs13o%40group.calendar.google.com) for meeting invites.
+* **Calendar:** Subscribe to the [OpenJS Foundation Public Calendar](https://calendar.openjsf.org) for meeting invites.
 
 * **Meeting Notes:** Meeting agendas and notes are available in the [`/meetings`](./meetings) directory.
 
